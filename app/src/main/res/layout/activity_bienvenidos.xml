@@ -28,38 +28,6 @@
                 android:typeface="serif"
                 app:fontFamily="monospace" />
 
-            <com.google.android.material.chip.ChipGroup
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" >
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="vertical">
-
-                    <com.google.android.material.chip.Chip
-                        android:id="@+id/chip"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Cédula de ciudadanía"
-                        android:textSize="24sp" />
-
-                    <com.google.android.material.chip.Chip
-                        android:id="@+id/chip2"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Cédula de extranjería"
-                        android:textSize="24sp" />
-
-                    <com.google.android.material.chip.Chip
-                        android:id="@+id/chip3"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Pasaporte"
-                        android:textSize="24sp" />
-                </LinearLayout>
-
-            </com.google.android.material.chip.ChipGroup>
 
             <TextView
                 android:id="@+id/Text1"
