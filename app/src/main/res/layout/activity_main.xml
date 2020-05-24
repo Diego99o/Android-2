@@ -63,7 +63,7 @@
                 android:layout_gravity="center"
                 android:background="@color/colorPrimaryDark"
                 android:onClick="ingresar"
-                android:text="login in"
+                android:text="login"
                 android:textColor="@android:color/background_light"
                 android:textSize="24sp" />
 
